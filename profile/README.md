@@ -1,7 +1,5 @@
 **Manifesto of "The Fast and the Query Us"**
 
-![fast](https://github.com/user-attachments/assets/40f08cd8-3fe9-4b55-9db5-3c246d6fe4f8)
-
 ### **Introduction**
 We live life one query at a time. For those 0.001 seconds or less, we’re free. Welcome to "The Fast and the Query Us," where speed is not just an option—it’s a way of life. Like the Fast and the Furious family, we thrive on adrenaline, precision, and pushing boundaries. But instead of the open road, our racetrack is the infinite web of data. Our mission? To create the fastest, most furious search engine the digital world has ever seen.
 
@@ -41,3 +39,6 @@ The web’s fast lane belongs to us.
 ---
 Signed,  
 **The Fast and the Query Us Crew**
+
+![fast](https://github.com/user-attachments/assets/40f08cd8-3fe9-4b55-9db5-3c246d6fe4f8)
+
